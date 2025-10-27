@@ -11,6 +11,7 @@
   bottom: 0;
   left: 0;
   z-index: 1000;
+  height: auto;
 }
 .footer_inner {
   width: 60%;
